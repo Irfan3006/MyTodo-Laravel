@@ -223,8 +223,9 @@
 
     <footer class="py-4 mt-auto border-top bg-light-subtle">
         <div class="container text-center">
-            <p class="mb-1 text-secondary fw-medium">&copy; {{ date('Y') }} MyTodo App. All rights reserved.</p>
-            <p class="small text-muted mb-0">Dibuat dengan <i class="fas fa-heart text-danger"></i> untuk produktivitas Anda.</p>
+            <p class="mb-0 text-secondary fw-medium">
+                Built by <a href="https://irfan-syarifudin.vercel.app/" target="_blank" class="text-decoration-none text-primary fw-bold">Irfan Syarifudin</a> | First Laravel Project
+            </p>
         </div>
     </footer>
 
