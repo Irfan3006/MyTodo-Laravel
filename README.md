@@ -22,8 +22,8 @@ MyTodo is a premium, high-performance To-Do List application built with Laravel 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/my-todo.git
-   cd my-todo
+   git clone https://github.com/Irfan3006/MyTodo-Laravel.git
+   cd MyTodo-Laravel
    ```
 
 2. **Install dependencies**:
